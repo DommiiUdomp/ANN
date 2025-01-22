@@ -1,4 +1,7 @@
 # Hydroinformatics class
-Introduction
-Code
-Assignment
+
+* Introduction
+
+* Code
+
+* Assignment
